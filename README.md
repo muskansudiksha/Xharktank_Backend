@@ -47,10 +47,10 @@ to run this project we need to execute the commands below:
 
 ```
 <!-- Firstly we need to clone the project -->
-git clone https://gitlab.crio.do/COHORT_ME_BUILDOUT_XHARKTANK_ENROLL_1648956266180/souptiksarkar4572-ME_BUILDOUT_XHARKTANK.git
+git clone https://github.com/muskansudiksha/Xharktank_Backend.git
 
 <!-- Move in to the project directory -->
-cd souptiksarkar4572-ME_BUILDOUT_XHARKTANK
+cd Xharktank_Backend
 
 <!-- Setting up all the necessary dependencies -->
 chmod 755 setup.sh
